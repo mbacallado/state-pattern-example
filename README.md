@@ -4,7 +4,6 @@ This repository contains a **simple and functional implementation of the State P
 
 It is intended as an **educational example** to help developers understand how to separate state-specific logic and transition handling in a clean, maintainable way.
 
-📄 This repository includes the full presentation on the State Pattern in PDF format, available [here](./StatePattern_ManuelAlejandroBacalladoLópez.pdf).
 ---
 
 ## 🎯 Purpose
@@ -38,6 +37,20 @@ The State Pattern is a **behavioral design pattern** that allows an object to al
 - ✅ Clean separation of concerns.
 - ✅ Easy to extend with new states.
 - ✅ Minimal, easy-to-follow example for learning purposes.
+
+---
+
+## 📄 Educational presentation
+
+This repository includes a full presentation in PDF format explaining the State Pattern in detail, covering:
+
+- Definition and classification.
+- Purpose and motivation.
+- Applicability scenarios.
+- Structure diagrams.
+- Participants and collaborations.
+- Advantages and disadvantages.
+- Related patterns and bibliography.
 
 ---
 
